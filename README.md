@@ -1,2 +1,2 @@
 # cnode-search-cli
-用来搜索cnode社区中的相关主题
+Command Line for search topics on Cnodejs.org from baidu
