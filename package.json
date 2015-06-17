@@ -6,6 +6,9 @@
   "bin": {
     "cnode-search": "./bin/cli.js"
   },
+  "scripts": {
+    "test": " node bin/cli.js node"
+  },
   "engines": {
     "node": ">=0.10.x"
   },
