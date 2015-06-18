@@ -20,7 +20,8 @@
   "author": "luoyjx <yjk99@qq.com>",
   "keywords": [
     "command",
-    "search"
+    "search",
+    "cnode"
   ],
   "license": "MIT",
   "bugs": {
