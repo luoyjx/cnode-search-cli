@@ -1,12 +1,12 @@
 # cnode-search-cli
 Command Line for search topics on Cnodejs.org from baidu
 
-# Installation
+## Installation
 ```
 npm install -g cnode-search-cli
 ```
 
-# Usage
+## Usage
 ```
   Usage: cnode-search <keyword>
 
@@ -15,5 +15,5 @@ npm install -g cnode-search-cli
     -h, --help     output usage information
     -V, --version  output the version number
 ```
-# License
+## License
 MIT

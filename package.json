@@ -1,6 +1,6 @@
 {
   "name": "cnode-search-cli",
-  "version": "0.0.5",
+  "version": "0.0.7",
   "description": "Command Line for search topics on Cnodejs.org",
   "main": "./lib/cnode-search.js",
   "bin": {
