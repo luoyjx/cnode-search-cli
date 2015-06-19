@@ -8,12 +8,12 @@ npm install -g cnode-search-cli
 
 ## Usage
 ```
-  Usage: cnode-search <keyword>
+Usage: cnode-search <keyword>
 
-  Options:
+Options:
 
-    -h, --help     output usage information
-    -V, --version  output the version number
+  -h, --help     output usage information
+  -V, --version  output the version number
 ```
 ## License
 MIT
