@@ -12,11 +12,7 @@
   "scripts": {
     "test" : "node ./bin/cli.js node"
   },
-  "homepage": "https://github.com/luoyjx/cnode-search-cli/blob/master/README.md",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/luoyjx/cnode-search-cli.git"
-  },
+  "repository": "git+https://github.com/luoyjx/cnode-search-cli.git",
   "author": "luoyjx <yjk99@qq.com>",
   "keywords": [
     "command",
@@ -24,9 +20,6 @@
     "cnode"
   ],
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/luoyjx/cnode-search-cli/issues"
-  },
   "dependencies": {
     "cheerio": "^0.19.0",
     "cli-spinner": "^0.2.1",
