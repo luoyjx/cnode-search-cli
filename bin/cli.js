@@ -14,5 +14,4 @@ program
 if (program.args.length != 1) {
   program.help();
 }
-
 search(program.args[0]);
