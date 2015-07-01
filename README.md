@@ -2,7 +2,7 @@
 
 Command Line for search topics on Cnodejs.org from baidu
 
-![npm stats](https://nodei.co/npm/cnode-search-cli.png?downloads=true&stars=true)
+[![NPM](https://nodei.co/npm/cnode-search-cli.png)](https://nodei.co/npm/cnode-search-cli/)
 ## Installation
 ```
 npm install -g cnode-search-cli
