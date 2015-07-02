@@ -1,6 +1,6 @@
 {
   "name": "cnode-search-cli",
-  "version": "0.0.8",
+  "version": "0.0.10",
   "description": "Command Line for search topics on Cnodejs.org",
   "main": "./lib/cnode-search.js",
   "bin": {
@@ -10,7 +10,7 @@
     "node": ">=0.10.x"
   },
   "scripts": {
-    "test" : "node ./bin/cli.js node"
+    "test": "node ./bin/cli.js node"
   },
   "repository": "git+https://github.com/luoyjx/cnode-search-cli.git",
   "author": "luoyjx <yjk99@qq.com>",
@@ -21,10 +21,11 @@
   ],
   "license": "MIT",
   "dependencies": {
-    "cheerio": "^0.19.0",
-    "cli-spinner": "^0.2.1",
-    "commander": "^2.8.1",
-    "openurl": "^1.1.0",
-    "request": "^2.58.0"
+    "cheerio": "0.19.0",
+    "cli-spinner": "0.2.1",
+    "colors": "1.1.2",
+    "commander": "2.8.1",
+    "openurl": "1.1.0",
+    "request": "2.58.0"
   }
 }
