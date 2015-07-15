@@ -3,7 +3,7 @@
 'use strict';
 
 var program = require('commander');
-var search = require('../lib/cnode-search.js');
+var search = require('../lib/search.js');
 var appInfo = require('./../package.json');
 
 program
